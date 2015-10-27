@@ -453,6 +453,7 @@ public class CrossCountryAssignment {
 	// printf can also be used to add space between strings as variables
 		
 		input.close();
+		
 	}
 
 }
